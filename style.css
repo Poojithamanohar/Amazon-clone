@@ -36,9 +36,9 @@
 
 /* box2 */
 .add-first{
-     color: #cccccc;
-     font-size: 0.85rem;
-     margin-left: 15px;
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
 }
 
 .add-second{
@@ -211,7 +211,6 @@ span{
 }
 
 .bigbox{
-   
     width:95%;
     height:290px;
     background-color: white;
